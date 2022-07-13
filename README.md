@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Python, React and Testing**
 
-- 👨‍💻 All of my projects are available at [troopl.com/george)
+- 👨‍💻 All of my projects are available at [troopl.com/george](troopl.com/george)
 
 - My current business [www.sequest.co](www.sequest.co)
 
