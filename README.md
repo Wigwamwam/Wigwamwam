@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Contio](http://www.contio.xyz/)
 
-- 🌱 I’m currently learning **Python, React and Testing**
+- 🌱 I’m currently learning **Python and AWS**
 
 - 👯 I’m looking to collaborate on **Sequest, an open-source carbon accounting tool**
 
