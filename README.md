@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm George</h1>
-<h3 align="center">A freelance software developer with passion for code.</h3>
+<h3 align="center">A freelance software developer - Main Stack: Ruby on Rails // React.js </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wigwamwam&label=Profile%20views&color=0e75b6&style=flat" alt="wigwamwam" /> </p>
 
